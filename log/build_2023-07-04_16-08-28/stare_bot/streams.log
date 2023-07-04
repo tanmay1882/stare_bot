@@ -1,0 +1,33 @@
+[1.030s] Invoking command in '/home/tanmay/new_ws/src/stare_bot': PYTHONPATH=/home/tanmay/new_ws/src/stare_bot/build/stare_bot/prefix_override:/home/tanmay/new_ws/src/stare_bot/install/stare_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/stare_bot build --build-base /home/tanmay/new_ws/src/stare_bot/build/stare_bot/build install --record /home/tanmay/new_ws/src/stare_bot/build/stare_bot/install.log --single-version-externally-managed
+[1.289s] running egg_info
+[1.289s] creating build/stare_bot/stare_bot.egg-info
+[1.289s] writing build/stare_bot/stare_bot.egg-info/PKG-INFO
+[1.289s] writing dependency_links to build/stare_bot/stare_bot.egg-info/dependency_links.txt
+[1.289s] writing entry points to build/stare_bot/stare_bot.egg-info/entry_points.txt
+[1.289s] writing requirements to build/stare_bot/stare_bot.egg-info/requires.txt
+[1.290s] writing top-level names to build/stare_bot/stare_bot.egg-info/top_level.txt
+[1.290s] writing manifest file 'build/stare_bot/stare_bot.egg-info/SOURCES.txt'
+[1.291s] reading manifest file 'build/stare_bot/stare_bot.egg-info/SOURCES.txt'
+[1.291s] writing manifest file 'build/stare_bot/stare_bot.egg-info/SOURCES.txt'
+[1.291s] running build
+[1.292s] running build_py
+[1.292s] creating /home/tanmay/new_ws/src/stare_bot/build/stare_bot/build
+[1.292s] creating /home/tanmay/new_ws/src/stare_bot/build/stare_bot/build/lib
+[1.292s] creating /home/tanmay/new_ws/src/stare_bot/build/stare_bot/build/lib/stare_bot
+[1.292s] copying stare_bot/__init__.py -> /home/tanmay/new_ws/src/stare_bot/build/stare_bot/build/lib/stare_bot
+[1.292s] running install
+[1.292s] running install_lib
+[1.293s] creating /home/tanmay/new_ws/src/stare_bot/install/stare_bot/lib/python3.10/site-packages/stare_bot
+[1.293s] copying /home/tanmay/new_ws/src/stare_bot/build/stare_bot/build/lib/stare_bot/__init__.py -> /home/tanmay/new_ws/src/stare_bot/install/stare_bot/lib/python3.10/site-packages/stare_bot
+[1.293s] byte-compiling /home/tanmay/new_ws/src/stare_bot/install/stare_bot/lib/python3.10/site-packages/stare_bot/__init__.py to __init__.cpython-310.pyc
+[1.293s] running install_data
+[1.294s] creating /home/tanmay/new_ws/src/stare_bot/install/stare_bot/share/ament_index
+[1.294s] creating /home/tanmay/new_ws/src/stare_bot/install/stare_bot/share/ament_index/resource_index
+[1.294s] creating /home/tanmay/new_ws/src/stare_bot/install/stare_bot/share/ament_index/resource_index/packages
+[1.294s] copying resource/stare_bot -> /home/tanmay/new_ws/src/stare_bot/install/stare_bot/share/ament_index/resource_index/packages
+[1.294s] copying package.xml -> /home/tanmay/new_ws/src/stare_bot/install/stare_bot/share/stare_bot
+[1.294s] running install_egg_info
+[1.295s] Copying build/stare_bot/stare_bot.egg-info to /home/tanmay/new_ws/src/stare_bot/install/stare_bot/lib/python3.10/site-packages/stare_bot-0.0.0-py3.10.egg-info
+[1.296s] running install_scripts
+[1.313s] writing list of installed files to '/home/tanmay/new_ws/src/stare_bot/build/stare_bot/install.log'
+[1.338s] Invoked command in '/home/tanmay/new_ws/src/stare_bot' returned '0': PYTHONPATH=/home/tanmay/new_ws/src/stare_bot/build/stare_bot/prefix_override:/home/tanmay/new_ws/src/stare_bot/install/stare_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/stare_bot build --build-base /home/tanmay/new_ws/src/stare_bot/build/stare_bot/build install --record /home/tanmay/new_ws/src/stare_bot/build/stare_bot/install.log --single-version-externally-managed

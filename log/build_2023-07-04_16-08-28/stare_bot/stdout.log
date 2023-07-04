@@ -1,0 +1,31 @@
+running egg_info
+creating build/stare_bot/stare_bot.egg-info
+writing build/stare_bot/stare_bot.egg-info/PKG-INFO
+writing dependency_links to build/stare_bot/stare_bot.egg-info/dependency_links.txt
+writing entry points to build/stare_bot/stare_bot.egg-info/entry_points.txt
+writing requirements to build/stare_bot/stare_bot.egg-info/requires.txt
+writing top-level names to build/stare_bot/stare_bot.egg-info/top_level.txt
+writing manifest file 'build/stare_bot/stare_bot.egg-info/SOURCES.txt'
+reading manifest file 'build/stare_bot/stare_bot.egg-info/SOURCES.txt'
+writing manifest file 'build/stare_bot/stare_bot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/tanmay/new_ws/src/stare_bot/build/stare_bot/build
+creating /home/tanmay/new_ws/src/stare_bot/build/stare_bot/build/lib
+creating /home/tanmay/new_ws/src/stare_bot/build/stare_bot/build/lib/stare_bot
+copying stare_bot/__init__.py -> /home/tanmay/new_ws/src/stare_bot/build/stare_bot/build/lib/stare_bot
+running install
+running install_lib
+creating /home/tanmay/new_ws/src/stare_bot/install/stare_bot/lib/python3.10/site-packages/stare_bot
+copying /home/tanmay/new_ws/src/stare_bot/build/stare_bot/build/lib/stare_bot/__init__.py -> /home/tanmay/new_ws/src/stare_bot/install/stare_bot/lib/python3.10/site-packages/stare_bot
+byte-compiling /home/tanmay/new_ws/src/stare_bot/install/stare_bot/lib/python3.10/site-packages/stare_bot/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/tanmay/new_ws/src/stare_bot/install/stare_bot/share/ament_index
+creating /home/tanmay/new_ws/src/stare_bot/install/stare_bot/share/ament_index/resource_index
+creating /home/tanmay/new_ws/src/stare_bot/install/stare_bot/share/ament_index/resource_index/packages
+copying resource/stare_bot -> /home/tanmay/new_ws/src/stare_bot/install/stare_bot/share/ament_index/resource_index/packages
+copying package.xml -> /home/tanmay/new_ws/src/stare_bot/install/stare_bot/share/stare_bot
+running install_egg_info
+Copying build/stare_bot/stare_bot.egg-info to /home/tanmay/new_ws/src/stare_bot/install/stare_bot/lib/python3.10/site-packages/stare_bot-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/tanmay/new_ws/src/stare_bot/build/stare_bot/install.log'
