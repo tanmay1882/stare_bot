@@ -1,0 +1,26 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/tanmay/new_ws/build/stare_bot",
+        "/home/tanmay/new_ws/install/stare_bot/lib/python3.10/site-packages",
+        "/home/tanmay/new_ws/install/demo_pkg/local/lib/python3.10/dist-packages",
+        "/home/tanmay/ros2_ws/src/install/bisi_turtle/lib/python3.10/site-packages",
+        "/home/tanmay/ros2_ws/src/install/bisi_travel/lib/python3.10/site-packages",
+        "/home/tanmay/ros2_ws/install/turtle_controller/lib/python3.10/site-packages",
+        "/home/tanmay/ros2_ws/install/turtle_controller_interface/local/lib/python3.10/dist-packages",
+        "/home/tanmay/ros2_ws/install/add_three_int/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/tanmay/new_ws/build/stare_bot",
+        "/home/tanmay/new_ws/install/stare_bot/lib/python3.10/site-packages",
+        "/home/tanmay/new_ws/install/demo_pkg/local/lib/python3.10/dist-packages",
+        "/home/tanmay/ros2_ws/src/install/bisi_turtle/lib/python3.10/site-packages",
+        "/home/tanmay/ros2_ws/src/install/bisi_travel/lib/python3.10/site-packages",
+        "/home/tanmay/ros2_ws/install/turtle_controller/lib/python3.10/site-packages",
+        "/home/tanmay/ros2_ws/install/turtle_controller_interface/local/lib/python3.10/dist-packages",
+        "/home/tanmay/ros2_ws/install/add_three_int/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
