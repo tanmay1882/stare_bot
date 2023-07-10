@@ -23,8 +23,22 @@ def generate_launch_description():
         arguments=["-topic","robot_description","-entity","stare_bot"],
         output="screen")
     
+    diff_cont = Node(
+        package="controller_manager",
+        executable="spawner",
+        arguments=["diff_cont", "--controller-manager", "/controller_manager"],
+    )
+
+    joint_broad = Node(
+        package="controller_manager",
+        executable="spawner",
+        arguments=["joint_broad", "--controller-manager", "/controller_manager"],
+    )
+    
     return LaunchDescription([
         robot_state_publisher,
         gazebo,
-        spawnner
+        spawnner,
+        diff_cont,
+        joint_broad,
     ])

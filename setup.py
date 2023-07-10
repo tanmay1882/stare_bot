@@ -37,7 +37,7 @@ setup(
     name=package_name,
     version='0.0.0',
     packages=[package_name],
-    data_files=package_files(data_files, ['urdf/', 'launch/']),
+    data_files=package_files(data_files, ['urdf/', 'launch/', 'config/']),
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='tanmay',
